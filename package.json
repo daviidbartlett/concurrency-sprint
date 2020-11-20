@@ -1,0 +1,26 @@
+{
+  "name": "BE-callback-heaven",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "generate": "node ./generate.js",
+    "remove-project": "node ./remove-project.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northcoders/BE-callback-heaven.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northcoders/BE-callback-heaven/issues"
+  },
+  "homepage": "https://github.com/northcoders/BE-callback-heaven#readme",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "jest-extended": "^0.11.2"
+  }
+}
